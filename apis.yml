@@ -39,7 +39,6 @@ apis:
   - name: LectServe
     description: "Protestant liturgical calendar"
     humanURL: http://www.lectserve.com
-    baseURL: http://www.lectserve.com
     tags:
       - Calendar
     properties:
